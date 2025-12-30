@@ -1,25 +1,25 @@
-Lecture 1: Introduction to Research — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Research)] [[▶️Video](https://www.youtube.com/watch?v=W-TlWzwM208)]\
-Lecture 2: Introduction to Python — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Python)] [[▶️Video](https://www.youtube.com/watch?v=bQUWLkKzpxE)]\
-Lecture 3: Introduction to NumPy — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_NumPy)] [[▶️Video](https://www.youtube.com/watch?v=48RqKyD6fas)]\
-Lecture 4: Introduction to pandas — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Introduction_to_Pandas)] [[▶️Video](https://www.youtube.com/watch?v=pAkEuv1lj08)]\
-Lecture 5: Plotting Data — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Plotting_Data)] [[▶️Video](https://www.youtube.com/watch?v=nKq_wz3Qk8w)]\
-Lecture 6: Means — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Means)] [[▶️Video](https://www.youtube.com/watch?v=XYbsBsRtCjw)]\
-Lecture 7: Variance — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Variance)] [[▶️Video](https://www.youtube.com/watch?v=0AWY0odmjSs)]\
-Lecture 8: Statistical Moments — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Statistical_Moments)] [[▶️Video](https://www.youtube.com/watch?v=mkVA_xUWDI0)]\
-Lecture 9: Linear Correlation Analysis — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Correlation_Analysis)] [[▶️Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s)]\
-Lecture 10: Instability of Estimates — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Instability_of_Estimates)] [[▶️Video](https://www.youtube.com/watch?v=2pbu3_6lF40)]\
-Lecture 11: Random Variables — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Random_Variables)]\
-Lecture 12: Linear Regression — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Regression)] [[▶️Video](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s)]\
-Lecture 13: Maximum Likelihood Estimation — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Maximum_Likelihood_Estimation)]\
-Lecture 14: Regression Model Instability — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Regression_Model_Instability)] [[▶️Video](https://www.youtube.com/watch?v=HMQ34PfhzGE)]\
-Lecture 15: Multiple Linear Regression — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Multiple_Linear_Regression)]\
-Lecture 16: Violations of Regression Models — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Violations_of_Regression_Models)] [[▶️Video](https://www.youtube.com/watch?v=xM94MRs8U3M)]\
-Lecture 17: Model Misspecification — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Model_Misspecification)] [[▶️Video](https://www.youtube.com/watch?v=t4peS8Ak-sY)]\
-Lecture 18: Residual Analysis — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Residuals_Analysis)]\
-Lecture 19: The Dangers of Overfitting — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/The_Dangers_of_Overfitting)] [[▶️Video](https://www.youtube.com/watch?v=KNCgvjyKrcw)]\
-Lecture 20: Hypothesis Testing — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Hypothesis_Testing)]\
-Lecture 21: Confidence Intervals — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Confidence_Intervals)]\
-Lecture 22: p-Hacking and Multiple Comparisons Bias — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/p-Hacking_and_Multiple_Comparisons_Bias)] [[▶️Video](https://www.youtube.com/watch?v=YiDfbYtgUPc)]\
-Lecture 23: Spearman Rank Correlation — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Spearman_Rank_Correlation)] [[▶️Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=25m51s)]\
-Lecture 24: Leverage — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Leverage)]\
-Lecture 25: Position Concentration Risk — [[📝Lecture Notebooks](https://github.com/quantopian/research_public/
+Lecture 1: Introduction to Research — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Introduction_to_Research)] [[▶️Video](https://www.youtube.com/watch?v=W-TlWzwM208)]\
+Lecture 2: Introduction to Python — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Introduction_to_Python)] [[▶️Video](https://www.youtube.com/watch?v=bQUWLkKzpxE)]\
+Lecture 3: Introduction to NumPy — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Introduction_to_NumPy)] [[▶️Video](https://www.youtube.com/watch?v=48RqKyD6fas)]\
+Lecture 4: Introduction to pandas — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Introduction_to_Pandas)] [[▶️Video](https://www.youtube.com/watch?v=pAkEuv1lj08)]\
+Lecture 5: Plotting Data — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Plotting_Data)] [[▶️Video](https://www.youtube.com/watch?v=nKq_wz3Qk8w)]\
+Lecture 6: Means — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Means)] [[▶️Video](https://www.youtube.com/watch?v=XYbsBsRtCjw)]\
+Lecture 7: Variance — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Variance)] [[▶️Video](https://www.youtube.com/watch?v=0AWY0odmjSs)]\
+Lecture 8: Statistical Moments — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Statistical_Moments)] [[▶️Video](https://www.youtube.com/watch?v=mkVA_xUWDI0)]\
+Lecture 9: Linear Correlation Analysis — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Linear_Correlation_Analysis)] [[▶️Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s)]\
+Lecture 10: Instability of Estimates — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Instability_of_Estimates)] [[▶️Video](https://www.youtube.com/watch?v=2pbu3_6lF40)]\
+Lecture 11: Random Variables — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Random_Variables)]\
+Lecture 12: Linear Regression — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Linear_Regression)] [[▶️Video](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s)]\
+Lecture 13: Maximum Likelihood Estimation — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Maximum_Likelihood_Estimation)]\
+Lecture 14: Regression Model Instability — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Regression_Model_Instability)] [[▶️Video](https://www.youtube.com/watch?v=HMQ34PfhzGE)]\
+Lecture 15: Multiple Linear Regression — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Multiple_Linear_Regression)]\
+Lecture 16: Violations of Regression Models — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Violations_of_Regression_Models)] [[▶️Video](https://www.youtube.com/watch?v=xM94MRs8U3M)]\
+Lecture 17: Model Misspecification — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Model_Misspecification)] [[▶️Video](https://www.youtube.com/watch?v=t4peS8Ak-sY)]\
+Lecture 18: Residual Analysis — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Residuals_Analysis)]\
+Lecture 19: The Dangers of Overfitting — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/The_Dangers_of_Overfitting)] [[▶️Video](https://www.youtube.com/watch?v=KNCgvjyKrcw)]\
+Lecture 20: Hypothesis Testing — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Hypothesis_Testing)]\
+Lecture 21: Confidence Intervals — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Confidence_Intervals)]\
+Lecture 22: p-Hacking and Multiple Comparisons Bias — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/p-Hacking_and_Multiple_Comparisons_Bias)] [[▶️Video](https://www.youtube.com/watch?v=YiDfbYtgUPc)]\
+Lecture 23: Spearman Rank Correlation — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Spearman_Rank_Correlation)] [[▶️Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=25m51s)]\
+Lecture 24: Leverage — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/tree/master/notebooks/lectures/Leverage)]\
+Lecture 25: Position Concentration Risk — [[📝Lecture Notebooks](https://github.com/Atikin7/research_public/
